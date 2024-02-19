@@ -16,3 +16,5 @@ function isPrime(n){
 console.log(isPrime(5))
 console.log(isPrime(15))
 console.log(isPrime(20))
+
+// Big O === O(n)
